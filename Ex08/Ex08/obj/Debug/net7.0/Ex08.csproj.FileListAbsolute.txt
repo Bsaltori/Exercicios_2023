@@ -1,0 +1,14 @@
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\bin\Debug\net7.0\Ex08.exe
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\bin\Debug\net7.0\Ex08.deps.json
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\bin\Debug\net7.0\Ex08.runtimeconfig.json
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\bin\Debug\net7.0\Ex08.dll
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\bin\Debug\net7.0\Ex08.pdb
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.AssemblyInfoInputs.cache
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.AssemblyInfo.cs
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.csproj.CoreCompileInputs.cache
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.dll
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\refint\Ex08.dll
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.pdb
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\Ex08.genruntimeconfig.cache
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex08\Ex08\obj\Debug\net7.0\ref\Ex08.dll
