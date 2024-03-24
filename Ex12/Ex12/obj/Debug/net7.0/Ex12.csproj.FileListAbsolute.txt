@@ -1,0 +1,14 @@
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\bin\Debug\net7.0\Ex12.exe
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\bin\Debug\net7.0\Ex12.deps.json
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\bin\Debug\net7.0\Ex12.runtimeconfig.json
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\bin\Debug\net7.0\Ex12.dll
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\bin\Debug\net7.0\Ex12.pdb
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.AssemblyInfoInputs.cache
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.AssemblyInfo.cs
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.csproj.CoreCompileInputs.cache
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.dll
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\refint\Ex12.dll
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.pdb
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\Ex12.genruntimeconfig.cache
+C:\Users\Bia\OneDrive\Documentos\Exercicios_2023\Ex12\Ex12\obj\Debug\net7.0\ref\Ex12.dll
